@@ -1,0 +1,4 @@
+flask
+peewee
+pyGitHub
+flask-cors
