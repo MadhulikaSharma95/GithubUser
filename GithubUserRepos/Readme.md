@@ -1,15 +1,26 @@
+## Instructions to run:
+
 Database file be generated when you run the script for the first time.
 
 Use any extension for db, I used SQLite Viewer in VSCode
 
-## Instructions to run:
+##Backend
 
-GithubUserRepos/flask-api> pip3 install -r requirements.txt
+Install / Initialize 
+- pip3 install -r requirements.txt
 
-GithubUserRepos/flask-api> python3 script.py "username1","username2","username3",etc.
+To Run Script
+- python3 script.py "username1","username2","username3",etc.
 
-GithubUserRepos/flask-api> python3 app.py
+To Run Flask API
+- python3 app.py
 
-GithubUserRepos/frontend-js> npm i
+##Frontend
 
-GithubUserRepos/frontend-js> npm start
+Note you need to have node / npm installed on your machine 
+
+Install
+- npm install
+
+Start
+- npm start
