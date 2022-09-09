@@ -17,7 +17,7 @@ To Run Flask API
 
 ## Frontend
 
-Note you need to have node / npm installed on your machine 
+Note: you need to have node / npm installed on your machine 
 
 Install
 - npm install
